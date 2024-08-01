@@ -34,12 +34,13 @@ dash-app-structure
 ```
 
 <br>
-#Subfolders Details
-## utils
+
+## Subfolders Details
+### utils
 code to retrieve the environment vars (OPENAI_API_KEY)
-## components
+### components
 support functions to build components instantiated in the pages layout
-## pages
+### pages
 pages layout code and callbacks
-## python version
+### python version
 python311
