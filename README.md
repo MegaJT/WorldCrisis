@@ -1,8 +1,9 @@
 ## App purpose
-Multipage Dash app  showing Interactive Charts on .... To COMPLETE<br>
+Multipage Dash app with interactive charts highlighting 2024 civilian casualties in violent conflicts. AI-assisted news summarization and translation are triggered by user interactions with the plots. <br>
 
 Under development-to join the [Charming Data Community](https://charming-data.circle.so/c/ai-python-projects/july-project-conflict-and-casualties) Project initiative <br>
-Part of this work is based on:<br>
+
+Part of this work is based on:  <br>
 ["UCDP Candidate Events Dataset (UCDP Candidate) version 24.0.X"](https://ucdp.uu.se/downloads/index.html#candidate)
 <br>
 
